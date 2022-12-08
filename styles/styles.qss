@@ -1,0 +1,26 @@
+* {
+    background-color: yellow;
+}
+
+QPushButton {
+    font: 18px;
+    border: none;
+}
+
+QPushButton:hover {
+    font: bold;
+}
+
+QPushButton:focus {
+    outline: none;
+}
+
+QSizeGrip {
+    background-color: yellow;
+}
+
+QPlainTextEdit {
+    border: none;
+    background-color: yellow;
+    font: 24px "Special Elite";
+}
